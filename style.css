@@ -75,6 +75,11 @@ h1 {
   color: #f55a49;
 }
 
+#blurb-btn {
+  font-family: "Bungee Inline", cursive;
+  transition: 1s;
+}
+
 #row-2 {
   color: black;
   background: rgb(249, 152, 122);

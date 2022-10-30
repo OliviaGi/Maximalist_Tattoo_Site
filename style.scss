@@ -77,6 +77,11 @@ h1 {
 		color: $accentColor-1;
 	}
 }
+#blurb-btn {
+	font-family: $accentFont-1;
+	transition: 1s;
+}
+
 #row-2 {
 	color: black;
 	background: rgb(249, 152, 122);
